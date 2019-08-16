@@ -1,0 +1,238 @@
+{
+  "subj": "Phát triển ứng dụng Web",
+  "class": "TH2016/32",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "8/7/2019",
+  "cols": [
+    {
+      "data": "STT",
+      "orderable": false
+    },
+    {
+      "data": "MSSV",
+      "orderable": false
+    },
+    {
+      "data": "?i?m",
+      "orderable": false
+    },
+    {
+      "data": "Ghi ch�",
+      "orderable": false
+    }
+  ],
+  "data": 
+    [
+      {
+        "STT": 1,
+        "MSSV": "1753012.sql",
+        "?i?m": 7.75,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 2,
+        "MSSV": "1753014.sql",
+        "?i?m": 0,
+        "Ghi ch�": "Gi?ng b�i 101"
+      },
+      {
+        "STT": 3,
+        "MSSV": "1753016.sql",
+        "?i?m": 9.25,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 4,
+        "MSSV": "1753017.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 5,
+        "MSSV": "1753020.sql",
+        "?i?m": 8,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 6,
+        "MSSV": "1753098.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 7,
+        "MSSV": "1753099.sql",
+        "?i?m": 8.5,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 8,
+        "MSSV": "1753101.sql",
+        "?i?m": 0,
+        "Ghi ch�": "Gi?ng b�i 014"
+      },
+      {
+        "STT": 9,
+        "MSSV": "1753102.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 10,
+        "MSSV": "1753103.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 11,
+        "MSSV": "1753104.sql",
+        "?i?m": 8.25,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 12,
+        "MSSV": "1753105.sql",
+        "?i?m": 8.75,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 13,
+        "MSSV": "1753107.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 14,
+        "MSSV": "1753109.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 15,
+        "MSSV": "1753110.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 16,
+        "MSSV": "1753111.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 17,
+        "MSSV": "1753113.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 18,
+        "MSSV": "1753115.sql",
+        "?i?m": 9.25,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 19,
+        "MSSV": "1753116.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 20,
+        "MSSV": "1753118.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 21,
+        "MSSV": "1753120.sql",
+        "?i?m": 5.25,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 22,
+        "MSSV": "1753123.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 23,
+        "MSSV": "1753124.sql",
+        "?i?m": 9.25,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 24,
+        "MSSV": "1753125.sql",
+        "?i?m": 9.5,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 25,
+        "MSSV": "1753126.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 26,
+        "MSSV": "1753127.sql",
+        "?i?m": 9,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 27,
+        "MSSV": "1753129.sql",
+        "?i?m": 7.5,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 28,
+        "MSSV": "1753130.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 29,
+        "MSSV": "1753131.sql",
+        "?i?m": 7.75,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 30,
+        "MSSV": "1753132.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 31,
+        "MSSV": "1753133.sql",
+        "?i?m": 10,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 32,
+        "MSSV": "1753139.sql",
+        "?i?m": 6,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 33,
+        "MSSV": "1753121.sql",
+        "?i?m": 4.75,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 34,
+        "MSSV": "1753128.zip",
+        "?i?m": 7.75,
+        "Ghi ch�": ""
+      },
+      {
+        "STT": 35,
+        "MSSV": 1753097,
+        "?i?m": 2,
+        "Ghi ch�": ""
+      }
+    ]
+  
+}
